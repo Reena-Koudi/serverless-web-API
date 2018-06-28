@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "lamba-test-executor",
+    "name": "lamba-test",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "2oa4vyw5ch",
+    "module": "app"
+  }
+}
