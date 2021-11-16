@@ -13,7 +13,7 @@
   "author": "Reena Koudi",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.264.1",
+    "aws-sdk": "^2.814.0",
     "claudia-api-builder": "^4.1.1",
     "superb": "^2.0.0",
     "uuid": "^3.3.0"
